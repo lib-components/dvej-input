@@ -24,5 +24,3 @@ export class DvejInput extends LitElement {
   }
 
 }
-
-customElements.define('dvej-input', DvejInput);

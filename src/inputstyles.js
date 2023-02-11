@@ -10,7 +10,7 @@ export const styles = css`
 
   input {
     background: rgba(0, 0, 0, 0.42);
-    padding: 5px;
+    padding: 10px;
     color: #ffffff;
     border-radius: 5px;
     font-size: 1rem;
